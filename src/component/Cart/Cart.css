@@ -1,0 +1,10 @@
+.main-cart {
+    position: sticky;
+}
+
+.orange {
+    background-color: orange;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 5px;
+}

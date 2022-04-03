@@ -1,0 +1,11 @@
+.single-shirt img {
+    height: 200px;
+    width: 200px;
+}
+
+.single-shirt {
+    background-color: chocolate;
+    padding: 20px;
+    border: 2px solid yellow;
+    border-radius: 20px;
+}

@@ -1,0 +1,24 @@
+.navbar a {
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.navbar {
+    display: flex;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 0px 100px;
+    background-color: aqua;
+
+}
+
+.main-nav h2 {
+    font-size: 30px;
+    color: darkorchid
+}

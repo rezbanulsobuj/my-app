@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  color: #61dafb;
+background-color: blueviolet;
+padding: 10px;
+margin: 40px;
+
+border-radius: 20px;
+}
+.nahid{
+  background-color: aqua;
+  border-radius: 10px;
+  margin: 40px;
+  padding: 10px;
+}
